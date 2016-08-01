@@ -1,0 +1,11 @@
+{
+  "generator-choo": {
+    "template": {
+      "projectName": "cm-wrapper",
+      "projectDescription": "",
+      "githubUsername": "test",
+      "name": "Matt McFarland",
+      "email": "contact@mattmcfarland.com"
+    }
+  }
+}
