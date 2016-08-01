@@ -66,6 +66,8 @@ We can easily then use `subscribe`, set our model `namespace`, and ensure that `
 
 Then we can use the exported `create` function:
 
+## index.js
+
 ```javascript
 const choo = require('choo')
 const CodeMirror = require('./externals/codemirror')
@@ -91,6 +93,7 @@ document.body.appendChild(tree)
 
 Then our view is easily used here:
 
+## views/home.js
 ```javascript
 const html = require('choo/html')
 module.exports = (state, prev, send) => html`
