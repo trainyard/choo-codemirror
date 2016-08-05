@@ -14,7 +14,9 @@
   },
   "dependencies": {
     "choo": "^3.2.0",
-    "codemirror": "^5.17.0"
+    "codemirror": "^5.17.0",
+    "data.task": "^3.1.0",
+    "vdom-thunk": "^3.0.0"
   },
   "devDependencies": {
     "browserify": "^13.0.1",

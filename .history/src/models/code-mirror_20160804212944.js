@@ -1,4 +1,4 @@
-const { subscribe } = require('../externals/codemirror')
+const { subscribe } = require('../lib/codemirror')
 
 module.exports = {
   /* namespace the model so that it cannot access any properties and handlers in other models */
@@ -16,11 +16,7 @@ module.exports = {
   },
   subscriptions: [
     (send, done) => {
-      subscribe((e) => {
-        send('codemirror:change', { value: e.doc.cm.getValue() }, (err) => {
-          if (err) return done(err)
-        })
-      })
+      subscribe((name, payload) => send(`codemirror:${name}`, payload, done))
     }
   ]
 }
