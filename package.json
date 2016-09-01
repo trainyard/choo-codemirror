@@ -15,7 +15,7 @@
   "dependencies": {
     "choo": "^3.2.0",
     "codemirror": "^5.17.0",
-    "data.task": "^3.1.0",
+    "data.task": "^3.1.1",
     "vdom-thunk": "^3.0.0"
   },
   "devDependencies": {
