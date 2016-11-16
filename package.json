@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "browserify": "^13.0.1",
-    "budo": "9.0.0",
+    "budo": "9.2.2",
     "choo-log": "^3.0.0",
     "es2040": "1.2.3",
     "envify": "^3.4.1",
