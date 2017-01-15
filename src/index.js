@@ -13,7 +13,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 app.model(require('./models/codemirror'))
-app.router(require('./routes'))
+app.router(['/', require('./views/home')])
 
 const tree = app.start()
 
