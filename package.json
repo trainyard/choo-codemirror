@@ -24,7 +24,7 @@
     "choo-log": "^3.0.1",
     "es2040": "1.2.5",
     "envify": "^4.0.0",
-    "normalize.css": "^5.0.0",
+    "normalize.css": "^6.0.0",
     "sheetify": "^6.0.1",
     "standard": "^9.0.2",
     "snazzy": "^6.0.0",
