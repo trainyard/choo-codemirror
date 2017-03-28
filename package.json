@@ -30,7 +30,7 @@
     "snazzy": "^6.0.0",
     "uglifyify": "^3.0.4",
     "unassertify": "^2.0.4",
-    "yo-yoify": "^3.5.0"
+    "yo-yoify": "^3.7.0"
   },
   "standard": {
     "ignore": [
