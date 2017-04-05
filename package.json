@@ -21,7 +21,7 @@
   "devDependencies": {
     "browserify": "^14.3.0",
     "budo": "9.4.7",
-    "choo-log": "^3.0.1",
+    "choo-log": "^5.0.0",
     "es2040": "1.2.5",
     "envify": "^4.0.0",
     "normalize.css": "^6.0.0",
