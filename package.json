@@ -13,7 +13,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "choo": "^5.3.0",
+    "choo": "^5.4.0",
     "codemirror": "^5.25.2",
     "data.task": "^3.1.1",
     "vdom-thunk": "^3.0.0"
