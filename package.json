@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "choo": "^5.6.1",
-    "codemirror": "^5.25.2",
+    "codemirror": "^5.26.0",
     "data.task": "^3.1.1",
     "vdom-thunk": "^3.0.0"
   },
