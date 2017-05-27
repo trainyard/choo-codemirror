@@ -19,7 +19,7 @@
     "vdom-thunk": "^3.0.0"
   },
   "devDependencies": {
-    "browserify": "^14.3.0",
+    "browserify": "^14.4.0",
     "budo": "10.0.3",
     "choo-log": "^6.1.2",
     "es2040": "1.2.5",
